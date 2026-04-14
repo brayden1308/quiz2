@@ -12,7 +12,7 @@ import java.util.List;
 public class ChefController {
 
     private final ChefRepository chefRepository;
-
+   //crud funcional
     public ChefController(ChefRepository chefRepository) {
         this.chefRepository = chefRepository;
     }
